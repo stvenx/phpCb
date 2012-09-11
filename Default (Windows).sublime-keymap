@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+f","ctrl+p"], "command": "php_cb"}
+]
